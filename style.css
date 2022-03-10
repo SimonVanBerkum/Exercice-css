@@ -1,0 +1,47 @@
+body
+{
+    text-align: center;
+    background-color: #cecece;
+}
+p + h1
+{
+    font-size: large;
+}
+.date
+{
+    font-weight: bold;
+}
+.image
+{
+    background-color: #FFFFFF;
+}
+.text
+{
+    font-size: medium;
+    width: 50%;
+    text-align: left;
+    margin-left: 25%;
+    padding-top: 1%;
+}
+div p
+{
+    font-size: small;
+    padding-bottom: 2%;
+}
+.citation
+{
+    width: 48%;
+    margin-left: 27%;
+    font-style: oblique;
+    padding-top: 3%;
+}
+h2
+{
+    font-size: xx-large;
+    padding-top: 2%;
+}
+.wikipedia
+{
+    font-size: larger;
+    font-weight: bold;
+}
